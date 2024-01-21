@@ -1,14 +1,32 @@
-# Hello, I'm Sneha 👋
+<h2 align="left">hi, i'm sneha 👋</h2>
 
-- 🌱 Currently attending UC Santa Cruz for Computer Science 🍌🐌
-- 🔭 Technical interests: AI/ML, data science
+###
 
-## ⌨️ Languages
-<div id="languages">
-  <img alt="Python Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img alt="Java Badge" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black"/>
-  <img alt="C Badge" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<p align="left">cs @ uc santa cruz 🍌🐌<br>interested in ai/ml, data science</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sneha-afk/sneha-afk/output/snake.svg" alt="github activity snake animation" />
+
+###
+
+<small>made with [profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)</small>
+
+###
 
 
 <!--
