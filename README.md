@@ -6,11 +6,8 @@ $ cat profile.json
     "b.s. cs": "uc santa cruz 🍌🐌",
     "m.s. cs": "uc san diego 🧜‍♀️🔱"
   },
-  "interests": [
-    "ai/ml",
-    "data science",
-    "systems"
-  ]
+  "languages": ["python", "c/c++", "go", "java", "sql"],
+  "interests": ["ai/ml", "systems"]
 }
 $ snake
 ```
